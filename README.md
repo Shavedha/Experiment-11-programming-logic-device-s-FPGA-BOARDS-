@@ -6,11 +6,11 @@ PC, Cyclone II , USB flasher
 ## SOFTWARE REQUIRED
 Quartus prime
 ## THEORY 
-1.Start the Quartus II Programmer.
-2.Click Add File and select the path to the desired .sof.
-3.Turn on the Program/Configure option for the added file.
-4.Click Start to download the selected file to the FPGA. 
-5.Configuration is complete when the progress bar reaches 100%.
+1. Start the Quartus II Programmer.
+2. Click Add File and select the path to the desired .sof.
+3. Turn on the Program/Configure option for the added file.
+4. Click Start to download the selected file to the FPGA. 
+5. Configuration is complete when the progress bar reaches 100%.
 
 ## PROCEDURE 
 Start the Quartus 2 software.
